@@ -48,11 +48,11 @@ body {
     font-weight: 700;
     font-size: 1.375em;
     line-height: 120%;
-    margin: 24px 0 16px;
+    margin: 1.5em 0 1em;
 }
 
 .container > p {
-    font-size: 15px;
+    font-size: 1em;
     letter-spacing: 0.2px;
     line-height: 140%;
     color: var(--slate500);
