@@ -46,7 +46,7 @@ body {
 
 .container > h1 {
     font-weight: 700;
-    font-size: 22px;
+    font-size: 1.375em;
     line-height: 120%;
     margin: 24px 0 16px;
 }
